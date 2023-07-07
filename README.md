@@ -1,11 +1,11 @@
 # Tab-Saver
 
-Tracker To Store Tabs URL And TEXT
+An extension for chrome to Store Tabs URL And Text
 
-Steps To Make It Useful :
-  1. Download All The Files In A Folder
-  2. Go To chrome://extensions/
-  3. Click On The Developer Mode On Top-Right
-  4. Click On Load Unpacked And Choose The Folder
-  5. Add Extension To Your Google Chrome
-  6. Use It And Have Fun
+_Steps to use it_ :
+1. Download all the files in a folder.
+2. Go to chrome://extensions/ in your Chrome browser.
+3. Click on the "Developer mode" checkbox in the top right corner.
+4. Click on the "Load unpacked" button and select the folder that you downloaded the files in.
+5. The extension will be added to your Chrome browser.
+6. You can now use the extension to store the URLs and text of your open tabs.
